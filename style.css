@@ -108,7 +108,10 @@ header {
   border-radius: 10px;
   border: none;
 }
-
+.tel {
+  color:black;
+  text-align:center;
+}
 footer {
   background-color: #1abc9c;
   color: white;
