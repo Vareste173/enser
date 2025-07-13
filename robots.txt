@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vareste173.github.io/enser/sitemap.xml
+Sitemap: https://vareste173.github.io/enser/sitemapnew.xml
